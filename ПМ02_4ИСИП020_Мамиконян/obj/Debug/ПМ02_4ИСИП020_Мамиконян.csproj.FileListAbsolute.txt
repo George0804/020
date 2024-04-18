@@ -1,0 +1,15 @@
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\bin\Debug\ПМ02_4ИСИП020_Мамиконян.exe.config
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\bin\Debug\ПМ02_4ИСИП020_Мамиконян.exe
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\bin\Debug\ПМ02_4ИСИП020_Мамиконян.pdb
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\obj\Debug\ПМ02_4ИСИП020_Мамиконян.csproj.AssemblyReference.cache
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\obj\Debug\MainWindow.g.cs
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\obj\Debug\App.g.cs
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\obj\Debug\ПМ02_4ИСИП020_Мамиконян_MarkupCompile.cache
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\obj\Debug\ПМ02_4ИСИП020_Мамиконян_MarkupCompile.lref
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\obj\Debug\MainWindow.baml
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\obj\Debug\ПМ02_4ИСИП020_Мамиконян.g.resources
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\obj\Debug\ПМ02_4ИСИП020_Мамиконян.Properties.Resources.resources
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\obj\Debug\ПМ02_4ИСИП020_Мамиконян.csproj.GenerateResource.cache
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\obj\Debug\ПМ02_4ИСИП020_Мамиконян.csproj.CoreCompileInputs.cache
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\obj\Debug\ПМ02_4ИСИП020_Мамиконян.exe
+C:\Users\208514\source\repos\ПМ02_4ИСИП020_Мамиконян\ПМ02_4ИСИП020_Мамиконян\obj\Debug\ПМ02_4ИСИП020_Мамиконян.pdb
